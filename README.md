@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quocsonnguyen
 - 👀 I’m interested in Natural Language Processing
 - 🌱 I’m currently learning BERT
-- 💞️ I’m looking to collaborate on NLP tasks such as Text Generation, Question Answering, Text Summarization
+- 💞️ I’m looking to collaborate on NLP tasks such as Text Generation, Question Answering, Text Summarization,...
 - 📫 How to reach me: quocsonnguyen2010@gmail.com
 
 <!---
